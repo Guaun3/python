@@ -32,5 +32,5 @@ classify all the clients by the province or city of their address.
 # 7. scraper_amazon
 - SMTP server
 - try-except
-- 
+- request, BeautifulSoup
 

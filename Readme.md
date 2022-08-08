@@ -29,3 +29,8 @@ classify all the clients by the province or city of their address.
 # 6. Print_format
 - f-string
 
+# 7. scraper_amazon
+- SMTP server
+- try-except
+- 
+

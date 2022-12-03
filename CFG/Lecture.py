@@ -191,7 +191,10 @@ API Response: The result of your request from the API
 
 
 Response status code:
-
+Status code     Name              Explanation
+    200         OK              The request worked
+    404         Not found       Couldn't find the url you requested
+    400         Bad request     The request you made isn't understood
 """
 import requests
 from pprint import pprint
